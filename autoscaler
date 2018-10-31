@@ -1,0 +1,3 @@
+#代理gcr.io上的镜像
+
+FROM gcr.io/knative-releases/autoscaler-b41733a3e5694e8fc64777bdfd8e791a@sha256:4ade328f5c600308abce5db583b4bdff6c1eb5646692788d14abe372ef46e9c0
