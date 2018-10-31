@@ -1,0 +1,3 @@
+#代理gcr.io上的镜像
+
+FROM gcr.io/knative-releases/queue-7204c16e44715cd30f78443fb99e0f58@sha256:c36d3c360587c5df5a6171732d24d595ed26da4f01702215d90023b427d7ef28
