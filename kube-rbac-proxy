@@ -1,0 +1,3 @@
+#代理gcr.io上的镜像
+
+FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
