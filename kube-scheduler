@@ -1,0 +1,3 @@
+#代理gcr.io上的镜像
+
+FROM registry.k8s.io/scheduler-plugins/kube-scheduler:v0.25.7
