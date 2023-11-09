@@ -1,0 +1,1 @@
+FROM registry.redhat.io/openshift-pipelines/pipelines-entrypoint-rhel8@sha256:ef8307e5a9bd928fed9f62effc6a90154ff31557645b0d5c512954b896b3c073
